@@ -1,0 +1,136 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+
+
+
+h1{
+
+  font-family: 'Indie Flower', cursive;
+}
+
+h2{
+
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
+
+
+p{
+
+font-family: 'Indie Flower', cursive;
+font-size: 30px;
+}
+
+
+
+.button1{
+
+  font-family:  'Indie Flower', cursive;
+}
+
+.button2best{
+font-family:  'Indie Flower', cursive;
+font-size: 30px;
+font-weight: bold;
+
+}
+
+.button1footer{
+font-family:  'Indie Flower', cursive;
+text-align: center;
+
+}
+
+
+.button1student{
+
+  text-align: center;
+}
+
+.contact-me{
+  font-family: Merriweather;
+  text-align: center;
+  margin: 200px;
+  position: absolute;
+  top:0px;
+}
+
+.eslstudents{
+  position: absolute;
+  left:400px;
+}
+
+.navbar1{
+
+position: absolute;
+left:1080px;
+}
+
+
+.talkwell-heading {
+  text-align: center;
+  font-family: cursive;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+.talkwell-heading1 {
+  text-align: center;
+  font-family:  cursive;
+  position: absolute;
+  top: 60px;
+  left: 60px;
+}
+
+
+.welcome {
+  display: inline;
+  position: absolute;
+  left: 290px;
+  top: 25px;
+  font-family:  cursive;
+}
+
+
+.top-container {
+  position: relative;
+  left: 150px;
+  border: 5px solid;
+  height: 100px;
+  padding: 20px;
+  width: 230px;
+  display: inline-block;
+}
+
+
+
+.u{
+
+  font-family: cursive;
+}
+
+
+.program-heading{
+
+text-align: center;
+position:relative;
+
+}
+
+.program-intro{
+  margin: 50px;
+text-align: center;
+font-family:'Indie Flower', cursive;
+}
+
+
+.student-img{
+
+  position: relative;
+  top: 30px;
+  left:400px;
+}
